@@ -1,0 +1,8 @@
+{
+  "name": "mishkat-reels",
+  "version": "1.0.0",
+  "description": "Skills for making faithful short vertical reels from recorded Islamic lectures: whole-sentence cuts, verbatim word-timed Arabic captions, Quran in the reciter's riwaya, hadith care, the sharia guard, framing, motion, review and human approval, trend and statement replies, outside footage, and working with AI agents.",
+  "homepage": "https://mishkat.mssid.org/ai",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["reels", "shorts", "islamic", "arabic", "lectures", "captions", "quran", "video"]
+}
